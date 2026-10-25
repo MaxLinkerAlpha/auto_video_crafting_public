@@ -4,6 +4,8 @@
 
 <h3 align="center">DESENSITIZED FOR SHARING · NOT FULLY TESTED · MAY CONTAIN BUGS</h3>
 
+<p align="center">© 2026 Max Linker Alpha. All Rights Reserved. 本仓库仅用于作品展示，未经许可不得复制、修改或分发。</p>
+
 ---
 
 > 通过 AI 自动为带时间戳的字幕文件匹配免费 CC0 视频画面，撑满时长生成最终视频。
