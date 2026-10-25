@@ -1,5 +1,11 @@
 # Auto Video Crafting
 
+<h1 align="center">⚠️ 由于分享需要，部分做了脱敏处理，<br>未经测试，可能存在部分BUG ⚠️</h1>
+
+<h3 align="center">DESENSITIZED FOR SHARING · NOT FULLY TESTED · MAY CONTAIN BUGS</h3>
+
+---
+
 > 通过 AI 自动为带时间戳的字幕文件匹配免费 CC0 视频画面，撑满时长生成最终视频。
 >
 > 版本：v1_2_0
