@@ -1,0 +1,7 @@
+# Auto Video Crafting - Python 依赖
+# 最小依赖集合，遵循 KISS 原则
+
+pysubs2>=1.2.1          # MIT 协议，字幕解析（srt/ass/vtt），无下游依赖
+requests>=2.31.0        # HTTP 客户端，调用 Pexels/Pixabay API
+openai>=1.30.0          # LLM 调用，OpenAI 兼容协议（可接 Qwen/DeepSeek 等）
+python-dotenv>=1.0.0    # 读取 .env 文件中的 API key

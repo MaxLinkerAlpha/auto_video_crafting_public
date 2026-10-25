@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 本地配置（含 API key，禁止入库）
+.env
+
+# 工作产物（不入库）
+cache/
+output/
+*.mkv
+*.mov
+
+# 个人字幕文件（含个人信息，禁止入库；示例请用 test_sample.srt）
+srt/*.srt
+!test_sample.srt
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统垃圾
+.DS_Store
+Thumbs.db

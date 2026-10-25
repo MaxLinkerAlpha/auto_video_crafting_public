@@ -1,0 +1,11 @@
+1
+00:00:00,500 --> 00:00:03,000
+Good morning, today we'll talk about coffee.
+
+2
+00:00:04,000 --> 00:00:07,500
+Coffee comes from Ethiopia originally.
+
+3
+00:00:08,000 --> 00:00:12,000
+Many people drink it every morning.
